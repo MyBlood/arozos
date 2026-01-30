@@ -97,6 +97,33 @@
             "placeholder":{
 
             }
-        }
+        },
+        "ru-RU": {
+    "name": "Russian（RU）",
+    "fwtitle": "",
+    "strings": {
+        "runtime/runtime_adjustment": "Настройка среды выполнения",
+        "runtime/update_system_startup_parameters": "Обновить параметры запуска системы во время выполнения",
+        "runtime/host_name": "Имя сервера",
+        "runtime/max_upload_size": "Максимальный размер загрузки (МБ)",
+        "runtime/file_upload_buffer": "Буфер загрузки файлов (МБ)",
+        "runtime/file_io_buffer": "Буфер файлового ввода-вывода (в байтах, по умолчанию 1024)",
+        "runtime/disable_ip_resolver": "Отключить разрешение IP",
+        "runtime/disable_ip_resolver_note": "Не пытаться анализировать IP-адреса клиентов, полезно, когда сервер находится за NAT или обратным прокси",
+        "runtime/enable_home_page": "Включить домашнюю страницу",
+        "runtime/enable_home_page_note": "Разрешить пользователям размещать свои собственные статические веб-страницы",
+        "runtime/enable_directory_listing": "Включить список каталогов",
+        "runtime/enable_directory_listing_note": "Разрешить вывод содержимого каталога, если запрашиваемый URL является папкой",
+        "runtime/confirmation_message": "Чтобы продолжить обновление конфигурации запуска, подтвердите:",
+        "runtime/i_know_what_i_am_doing": "Я уверен, что знаю, что делаю",
+        "runtime/i_know_what_i_am_doing_note": "Эти настройки применяются только к текущей среде выполнения. В случае возникновения проблем вы можете перезапустить систему, чтобы восстановить значения по умолчанию.",
+        "runtime/write_to_runtime": "Записать в текущую среду выполнения",
+        "runtime/update_failed": "Ошибка обновления параметров",
+        "runtime/param_updated": "Параметры запуска обновлены",
+        "runtime/param_updated_note": "Эти настройки применяются только к текущей среде выполнения. Перезапустите сервер, чтобы восстановить значения по умолчанию."
+    },
+    "titles": {},
+    "placeholder": {}
+},
     }
 }
