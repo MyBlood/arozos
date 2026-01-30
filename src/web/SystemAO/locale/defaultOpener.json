@@ -110,9 +110,22 @@
             "placeholder": {
         
             }
-        }
+        },
+        "ru-ru": {
+    "fwtitle": "Веб-приложение по умолчанию для открытия",
+    "fontFamily": "",
+    "strings": {
+        "message/select": "Пожалуйста, выберите веб-приложение по умолчанию для открытия ",
+        "message/files": " файлов.",
+        "button/showAll": "Показать все приложения",
+        "button/showRelevent": "Показать соответствующие приложения",
+        "button/cancel": "Отменить",
+        "button/confirm": "Подтвердить"
+    },
+    "titles": {},
+    "placeholder": {}
         
         
         
-    }
+    },
 }
