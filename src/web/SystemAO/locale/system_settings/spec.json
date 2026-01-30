@@ -135,6 +135,44 @@
             "placeholder":{
 
             }
-        }
+        },
+        "ru-RU": {
+    "name": "Russian（RU）",
+    "fwtitle": "",
+    "strings": {
+        "hwinfo/specifications": "Спецификации",
+        "hwinfo/model": "Модель процессора",
+        "hwinfo/frequency": "Частота процессора",
+        "hwinfo/instruction": "Набор инструкций",
+        "hwinfo/hardware": "Аппаратное обеспечение",
+        "hwinfo/revision": "Версия",
+        "hwinfo/memory": "Память",
+        "hwinfo/nic": "Сетевая карта",
+        "hwinfo/drive": "Жёсткий диск",
+        "hwinfo/usb": "USB",
+        "hwinfo/operation_time": "Время работы",
+        "hwinfo/boot_time": "Время загрузки",
+        "hwinfo/up_time": "Время работы",
+
+        "taskManager/cpu": "Процессор",
+        "taskManager/cpu_description": "Загрузка ЦП за последние 60 секунд (%)",
+        "taskManager/cpu_info": "Универсальный процессор",
+        "taskManager/cpu_usage_description": "Использование",
+        "taskManager/cpu_frequency_description": "Тактовая частота",
+        "taskManager/memory": "Память",
+        "taskManager/memory_description": "Использование ОЗУ",
+        "taskManager/memory_info": "Загрузка...",
+        "taskManager/ram_used_description": "Использовано",
+        "taskManager/ram_used_percentage_description": "Использовано (%)",
+        "taskManager/ram_total_description": "Всего",
+        "taskManager/network": "Сеть",
+        "taskManager/network_description": "Использование сети за последние 60 секунд",
+        "taskManager/network_scale": "100 кбит/с",
+        "taskManager/network_received_description": "Получено",
+        "taskManager/network_transmitted_description": "Передано"
+    },
+    "titles": {},
+    "placeholder": {}
+},
     }
 }
