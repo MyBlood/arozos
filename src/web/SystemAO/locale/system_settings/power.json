@@ -55,6 +55,26 @@
             "placeholder":{
 
             }
-        }
+        },
+        "ru-RU": {
+    "name": "Russian（RU）",
+    "fontFamily": "\"Microsoft JhengHei\",\"SimHei\", \"Apple LiGothic Medium\", \"STHeiti\"",
+    "strings": {
+        "hostPower/host_power": "Питание хоста",
+        "hostPower/host_power_title": "Питание хоста",
+        "hostPower/change_power_state": "Изменить состояние питания устройства",
+        "hostPower/system_online": "Система онлайн",
+        "hostPower/last_update": "Последнее обновление: ",
+        "hostPower/power_options": "Параметры питания",
+        "hostPower/power_off": "Выключить",
+        "hostPower/restart": "Перезапустить",
+        "hostPower/restart_shutdown_risk": "Риск перезапуска/выключения",
+        "hostPower/shutdown_warning": "Если вы решите выключить сервер хоста, ArozOS отправит сигнал выключения операционной системе хоста. Из веб-интерфейса невозможно узнать, завершён ли процесс выключения/перезапуска.<br><b>Убедитесь, что вы находитесь в месте, где можно физически перезапустить хост.</b>",
+        "hostPower/ensure_safety": "Пожалуйста, убедитесь, что вы находитесь в месте, где можно физически перезапустить хост, перед выключением.",
+        "hostPower/status/online": "Система онлайн",
+        "hostPower/status/disconnected": "Отключено"
+    },
+    "titles": {},
+    "placeholder": {}
     }
 }
