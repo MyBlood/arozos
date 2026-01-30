@@ -241,6 +241,44 @@
             },
             "titles": {},
             "placeholder": {}
-        }        
+        },
+        "ru-ru": {
+    "fwtitle": "Операции с файлами",
+    "fontFamily": "",
+    "strings": {
+        "title": "Операции с файлами",
+        "banner/title": "Расчёт необходимого времени",
+        "info/from": "источник:",
+        "info/to": "назначение:",
+        "info/progress": "Прогресс:",
+        "info/calculating": "Расчёт",
+        "dup/question": "В назначении есть хотя бы один файл с повторяющимся именем. <b>Какое действие следует выполнить для этого файла?</b>",
+        "dup/overwrite": "Перезаписать",
+        "dup/skip": "Пропустить",
+        "dup/renameAndKeep": "Переименовать и оставить",
+        "title/moving": "Перемещение ",
+        "title/copying": "Копирование",
+        "title/zipping": "Архивация ",
+        "title/downloading": "Загрузка ",
+        "title/unzipping": "Распаковка ",
+        "title/file": " файл",
+        "title/files": " файлов",
+        "button/pause": "Пауза",
+        "button/resume": "Продолжить",
+        "button/cancel": "Отменить",
+        "error/Access Denied": "Доступ запрещён",
+        "error/Source file not exists": "Исходный файл не существует",
+        "error/Source and destination paths are identical.": "Пути источника и назначения совпадают",
+        "error/Storage Quota Full": "Квота хранилища заполнена",
+        "error/Dest folder not found": "Папка назначения не найдена",
+        "error/Undefined dest location": "Неопределённое местоположение назначения",
+        "error/This source file is Read Only": "Этот исходный файл доступен только для чтения",
+        "error/File already exists": "Файл уже существует",
+        "error/This directory is Read Only": "Этот каталог доступен только для чтения",
+        "error/Operation cancelled by user": "Операция отменена пользователем"
+    },
+    "titles": {},
+    "placeholder": {}
+},
     }
 }
