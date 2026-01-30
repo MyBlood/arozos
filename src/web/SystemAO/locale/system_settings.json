@@ -546,6 +546,137 @@
                 "": ""
             },
             "placeholder": {}
-        }
+        },
+        "ru-RU": {
+    "name": "Russian (RU)",
+    "fontFamily": "Arial, Helvetica, sans-serif",
+    "fwtitle": "Системные настройки",
+    "strings": {
+        "menu/group/Host Information": "Системная информация",
+        "menu/group/Devices & IoT": "Устройства и IoT",
+        "menu/group/Module Management": "Управление модулями",
+        "menu/group/Disk & Storage": "Диск и хранилище",
+        "menu/group/Network & Connection": "Сеть и соединение",
+        "menu/group/Users & Groups": "Пользователи и группы",
+        "menu/group/Clusters & Scheduling": "Кластеры и планирование",
+        "menu/group/Security & Auth": "Безопасность и аутентификация",
+        "menu/group/Developer Options": "Параметры разработчика",
+        "menu/group/About ArOZ": "О ArozOS",
+
+        "tab/info/Overview": "Обзор",
+        "tab/info/Host Info": "Информация о хосте",
+        "tab/info/Performance": "Производительность",
+        "tab/info/Runtime": "Среда выполнения",
+        "tab/info/Power": "Питание",
+        "tab/info/Updates": "Обновления",
+
+        "tab/module/Add & Remove Module": "Добавить или удалить модуль",
+        "tab/module/Subservices": "Подчинённые службы",
+        "tab/module/Default Module": "Модуль по умолчанию",
+        "tab/module/Module List": "Установленные модули",
+
+        "tab/disk/Storage Quota": "Квота хранилища",
+        "tab/disk/Space Finder": "Поиск места",
+        "tab/disk/Disk Space": "Место на диске",
+        "tab/disk/Disk SMART": "SMART (состояние диска)",
+        "tab/disk/Storage Pools": "Системные пулы хранения",
+
+        "tab/device/Client Device": "Клиентское устройство",
+        "tab/device/Audio Testing": "Тестирование динамиков",
+        "tab/device/Display Testing": "Тестирование дисплея",
+        "tab/device/Language": "Язык устройства",
+        "tab/device/IoT Hub": "Драйвер IoT",
+
+        "tab/network/Network Info": "Обзор сети",
+        "tab/network/Port Forward": "Перенаправление портов",
+        "tab/network/Personal Page": "Персональная страница",
+        "tab/network/WiFi Info": "Информация о Wi-Fi",
+        "tab/network/WiFi Settings": "Настройки Wi-Fi",
+        "tab/network/File Servers": "Файловые серверы",
+
+        "tab/users/My Account": "Мой аккаунт",
+        "tab/users/User List": "Управление пользователями",
+        "tab/users/Permission Groups": "Группы разрешений",
+        "tab/users/Public Registry": "Публичный реестр",
+
+        "tab/cluster/Tasks Scheduler": "Планировщик задач",
+        "tab/cluster/Neighbourhood": "Сетевое окружение",
+        "tab/cluster/Cluster List": "Управление кластерами",
+        "tab/cluster/Cluster Toolbox": "Инструменты кластера",
+
+        "tab/security/Connection Log": "Журнал соединений",
+        "tab/security/Access Control": "Контроль доступа",
+        "tab/security/OAuth": "Настройки OAuth",
+        "tab/security/LDAP": "Настройки LDAP",
+
+        "tab/advance/System Log": "Системный журнал",
+        "tab/advance/Auto Login Mode": "Режим автоматического входа",
+        "tab/advance/Disk Manager": "Дисковый менеджер",
+
+        "tab/about/ArozOS": "О ArozOS",
+        "tab/about/Open Source": "Компоненты с открытым исходным кодом",
+        "tab/about/License": "Лицензия системы",
+        "tab/about/Vendor": "Производитель"
+    },
+    "titles": {
+        "Config and info about the Server Host": "Конфигурация и информация о сервере",
+        "Connected clients and IoT devices": "Подключённые клиенты и устройства IoT",
+        "List of modules loaded in the system": "Модули системы и подчинённые службы",
+        "Manage Storage Devices and Disks": "Пулы хранения и управление дисками",
+        "Manage Host Network and Connections": "Сеть и соединение",
+        "Add, removed or edit users and groups": "Пользователи и группы разрешений",
+        "Cluster, Network Scanning and Task Scheduling": "Кластер, сканирование сети и планирование",
+        "System Security and Auth Credentials": "Системная безопасность и аутентификация",
+        "Advance configs for developers": "Параметры разработчика",
+        "Information of the current running ArOZ Online System": "О ArozOS",
+
+        "Set the power state of the host device": "Изменить состояние питания системы",
+        "Change startup paramter in runtime": "Изменить параметры запуска во время выполнения",
+        "System CPU and RAM usage": "Использование процессора и памяти системой",
+        "System Information": "Системная информация",
+        "Overview for user information": "Обзор системы и пользователя",
+
+        "Detail about the browser you are using": "Информация о браузере",
+        "Speaker and volume testing": "Тестирование динамиков и громкости",
+        "Display testing tools": "Инструменты тестирования дисплея",
+        "Set the display language of the system": "Установить язык устройства",
+        "Manage IoT Devices Scanners": "Установленные драйверы устройств IoT",
+
+        "A list of module currently loaded in the system": "Установленные модули WebApp",
+        "Default module use to open a file": "Установить модуль по умолчанию для открытия файлов",
+        "Launch and kill subservices": "Запуск и остановка подчинённых служб",
+        "Install & Remove Module to the system": "Добавить или удалить модули WebApp",
+
+        "User Remaining Space": "Оставшаяся ёмкость",
+        "Reclaim Storage Space on Disks": "Найти файлы, занимающие место",
+        "System Storage Space on Disks": "Ёмкость диска и доступное место",
+        "HardDisk Health Checking": "Состояние диска",
+        "Storage Pool Mounting Configuration": "Подключить и управлять пулами хранения",
+
+        "Network Information": "Состояние сети и информация",
+        "UPnP based port forwarding": "Настроить перенаправление портов UPnP",
+        "Personal Web Page": "Настроить персональную веб-страницу",
+        "Current Connected WiFi Information": "Информация о текущем подключении Wi-Fi",
+        "Setup WiFi Conenctions": "Настройки Wi-Fi",
+        "Network File Transfer Servers": "Настройки веб-сервера передачи файлов",
+
+        "System Tasks and Excution Scheduler": "Планирование системных задач",
+        "Nearby ArOZ Host for Clustering": "Сканировать на наличие серверов ArozOS поблизости",
+
+        "Logs for login attempts": "Журналы входа",
+        "Prevent / Allow certain IP ranges from logging in": "Управление чёрным/белым списком",
+        "Allows external account access to system": "Включить или отключить регистрацию аккаунтов",
+
+        "View ArozOS System Log": "Просмотр системных журналов",
+        "Allow bots logging into the system automatically": "Включить автоматический вход ботов",
+        "Mount, Unmount and Formatting Local Disks": "Подключить, отключить и форматировать диски",
+
+        "About this ArozOS": "О данном ArozOS",
+        "License from the Open Source Community": "Компоненты с открытым исходным кодом",
+        "License of ArozOS": "Лицензия ArozOS",
+        "Vendor Notes": "Примечания производителя"
+    },
+    "placeholder": {}
+},
     }
 }
