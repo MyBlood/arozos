@@ -46,6 +46,19 @@
             },
             "titles": {},
             "placeholder": {}
-        }
-    }
-}
+        },
+        "ru-RU": {
+    "name": "Russian（RU）",
+    "fwtitle": "",
+    "strings": {
+        "locale/language-setting-title": "Настройки языка",
+        "locale/language-setting-description": "Вы можете изменить язык отображения здесь.<br> Настройка языка повлияет только на текущий компьютер.",
+        "locale/setting-updated-title": "Настройки обновлены. Пожалуйста, выйдите из системы, чтобы применить изменения.",
+        "locale/display-language-label": "Язык отображения",
+        "locale/language-default-text": "Язык",
+        "locale/browser-default": "По умолчанию в браузере",
+        "locale/update-button": "Обновить"
+    },
+    "titles": {},
+    "placeholder": {}
+},
