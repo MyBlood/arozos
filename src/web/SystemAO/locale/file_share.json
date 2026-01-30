@@ -229,7 +229,43 @@
             },
             "titles": {},
             "placeholder": {}
-        }
+        },
+        "ru-ru": {
+    "fontFamily": "",
+    "fwtitle": "Общий доступ к файлам",
+    "strings": {
+        "title/title": "Общий доступ к файлам",
+        "button/copy": "Копировать в буфер обмена",
+        "button/remove": "Удалить общий доступ",
+        "button/copied": "Скопировано!",
+
+        "share/setting/title": "Настройки общего доступа",
+        "share/setting/subtitle": "Укажите, кто может получить доступ к этому файлу",
+        "share/setting/options": "Настройки доступа:",
+        "share/setting/anyoneWithLink": "Любой, у кого есть ссылка",
+        "share/setting/anyoneWithLink/desc": "Любой, у кого есть общая ссылка, может скачать этот файл",
+        "share/setting/anyoneSignedIn": "Любой вошедший в систему",
+        "share/setting/anyoneSignedIn/desc": "Любой вошедший в систему и имеющий общую ссылку может скачать этот файл",
+        "share/setting/sameGroup": "Пользователи в той же группе разрешений",
+        "share/setting/sameGroup/desc": "Любой с теми же правами пользователя может скачать этот файл",
+        "share/setting/updated": "Разрешение на доступ обновлено",
+
+        "share/setting/advance/title": "Расширенные параметры общего доступа",
+        "share/setting/advance/users": "Указанные пользователи",
+        "share/setting/advance/usersDesc": "Укажите имена учётных записей пользователей, вошедших в систему",
+        "share/setting/advance/usersInstruct": "Выберите конкретных пользователей из списка ниже",
+        "share/setting/advance/addUserToSave": "Добавьте хотя бы одного пользователя, чтобы сохранить изменения",
+        "share/setting/advance/groups": "Указанные группы разрешений",
+        "share/setting/advance/groupsDesc": "Пользователи с любыми из указанных групповых разрешений могут получить доступ",
+        "share/setting/advance/groupsInstruct": "Выберите указанные группы для общего доступа из списка ниже",
+        "share/setting/advance/addGroupToSave": "Добавьте хотя бы одну группу разрешений, чтобы сохранить изменения",
+
+        "message/removed": "Общий доступ был удалён",
+        "qr/loading": "Загрузка"
+    },
+    "titles": {},
+    "placeholder": {}
+},
         
     }
 }
