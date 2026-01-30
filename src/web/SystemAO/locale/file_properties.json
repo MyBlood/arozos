@@ -253,7 +253,47 @@
                 
                 "": ""
             }
-        }
+        },
+        "ru-ru": {
+    "fwtitle": "Содержимое файла",
+    "fontFamily": "",
+    "strings": {
+        "title/title": "Содержимое файла",
+        "title/desc": "Основное содержимое и описание файла",
+
+        "properties/key/Default WebApp": "Приложение по умолчанию для открытия",
+        "properties/key/Virtual Path": "Виртуальный путь доступа",
+        "properties/key/Storage Path": "Путь к файловому хранилищу",
+        "properties/key/File Size": "Размер файла",
+        "properties/key/Folder Size": "Размер папки",
+        "properties/key/Permission": "Разрешение на доступ",
+        "properties/key/Last Modified": "Последнее изменение",
+        "properties/key/File Type": "Тип файла",
+        "properties/key/Owner": "Владелец",
+        "properties/key/Total Size": "Общий размер",
+        "properties/key/Virtual Directory": "Виртуальный каталог",
+        "properties/key/Storage Directory": "Каталог файлового хранилища",
+
+        "lastmod/time/year": " год",
+        "lastmod/time/month": " месяц",
+        "lastmod/time/days": " дней",
+        "lastmod/time/today": "Сегодня",
+        "lastmod/time/s": "с",
+        "lastmod/time/ago": " назад",
+
+        "button/changeDefault": "Изменить приложение по умолчанию для открытия",
+        "button/versionHistory": "Просмотр истории версий файла",
+        "button/changeFilePermission": "Изменить разрешение на доступ к файлу",
+        "loader/loadingFileSize": "Расчёт размера файла",
+        "selection/multi": "Выбрано несколько файлов",
+
+        "counter/files": " файлов",
+        "counter/folders": " папок",
+
+        "properties/error/Not available for network folders": "Недоступно для сетевых папок",
+        "properties/error/No record": "Нет записи"
+    }
+},
         
     }
 }
