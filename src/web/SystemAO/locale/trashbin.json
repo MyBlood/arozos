@@ -156,6 +156,52 @@
             "placeholder":{
 
             }
-        }
+        },
+        "ru-ru": {
+    "fwtitle": "Корзина",
+    "strings": {
+        "title/title": "Корзина",
+
+        "button/deleteAll": "Удалить всё",
+        "button/details": "Сведения",
+        "button/restore": "Восстановить",
+
+        "list/filename": "Имя файла",
+        "list/deleteTime": "Время удаления",
+        "list/details": "Подробности",
+        "list/restore": "Восстановить файл",
+        "list/scanning": "Сканирование файлов восстановления из всех виртуальных дисков",
+        "list/notrash": "В корзине нет файлов или папок",
+
+        "opr/move": "Переместить",
+        "opr/file": "файл",
+        "opr/files": "файлы",
+        "opr/and": " и ",
+        "opr/more": " и другие файлы",
+        "opr/toTrashBin": "в корзину?",
+        "opr/delete": "Удалить: ",
+        "opr/cancel": "Отменить",
+        "opr/confirm": "Подтвердить",
+
+        "message/nofileselected": "Файлы не выбраны",
+        "message/property": "Свойство",
+        "message/value": "Значение",
+        "message/notrash": "В корзине нет файлов или папок",
+        "message/confirmDelete": "Вы уверены, что хотите **окончательно удалить** все файлы? ",
+
+        "detail/storageFilename": "Имя файла в хранилище",
+        "detail/storageFilepath": "Виртуальный путь к файлу в хранилище",
+        "detail/fileExt": "Расширение",
+        "detail/isDir": "Папка",
+        "detail/filesize": "Размер файла",
+        "detail/removeTimestamp": "Временная метка удаления",
+        "detail/removeDate": "Дата удаления",
+        "detail/originalPath": "Исходный виртуальный путь к файлу",
+        "detail/originalFilename": "Исходное имя файла",
+        "detail/ok": "ОК"
+    },
+    "titles": {},
+    "placeholder": {}
+},
     }
 }
