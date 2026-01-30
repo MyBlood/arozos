@@ -49,6 +49,21 @@
             },
             "titles": {},
             "placeholder": {}
-        }
-    }
-}
+        },
+        "ru-RU": {
+    "name": "Russian（RU）",
+    "fwtitle": "",
+    "strings": {
+        "locale/iot-control-panel-title": "Панель управления IoT",
+        "locale/iot-hub-title": "Центр IoT",
+        "locale/iot-hub-description": "Список сканеров поддерживаемых протоколов IoT",
+        "locale/protocol-name": "Название протокола",
+        "locale/description": "Описание",
+        "locale/version-protocol": "Версия (протокол)",
+        "locale/author": "Автор",
+        "locale/release-date": "Дата выпуска"
+    },
+    "titles": {},
+    "placeholder": {}
+},
+
