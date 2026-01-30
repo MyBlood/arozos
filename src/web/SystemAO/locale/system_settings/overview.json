@@ -71,6 +71,22 @@
             "placeholder":{
 
             }
-        }
+        },
+        "ru-RU": {
+    "name": "Russian（RU）",
+    "fwtitle": "",
+    "strings": {
+        "arozaudio/arozaudio-title": "ArozOS Тест звука",
+        "arozaudio/system-audio": "Системный звук",
+        "arozaudio/system-audio-subheader": "Тест и регулировка глобальных настроек звука / громкости",
+        "arozaudio/left-speaker": "Левый динамик",
+        "arozaudio/speaker-test": "Тест динамика",
+        "arozaudio/right-speaker": "Правый динамик",
+        "arozaudio/master-volume": "Общая громкость",
+        "arozaudio/this-device-global-volume": "Глобальная громкость устройства: ",
+        "arozaudio/some-modules-volume": "Некоторые модули используют автономную систему управления громкостью. Общая громкость может не управлять громкостью всех модулей."
+    },
+    "titles": {},
+    "placeholder": {}
     }
 }
