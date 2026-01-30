@@ -143,6 +143,30 @@
                 "button/login": "ログイン",
                 "button/logout": "ログアウト"
             }   
-        }
+        },
+        "ru-ru": {
+    "fwtitle": "Менеджер аккаунтов",
+    "strings": {
+        "desc/currentAccount": "Текущий аккаунт",
+        "desc/savedAccount": "Сохранённые аккаунты в этом браузере",
+        "desc/sign-in-new": "Войти в новый аккаунт",
+        "desc/username": "Имя пользователя",
+        "desc/password": "Пароль",
+        "desc/enterPassword": "Введите пароль, чтобы возобновить сессию",
+        "desc/switchAccount": "Добавить локальный аккаунт",
+        "desc/noAlternative": "В этом браузере нет других сохранённых аккаунтов",
+        "desc/sessionValid": "Сессия действительна",
+        "desc/sessionExpired": "Сессия истекла",
+        "desc/addAccount": "Добавить локальный аккаунт",
+        "desc/signoutAll": "Выйти из других сохранённых аккаунтов",
+
+        "msg/logout/confirm": "Это действие выйдет из всех других аккаунтов в этом браузере. Подтвердить?",
+        "msg/logout/thisAcConfirm": "Завершение сессии. Подтвердить?",
+        "button/login": "войти",
+        "button/logout": "Выйти"
+    },
+    "titles": {},
+    "placeholder": {}
+},
     }
 }
