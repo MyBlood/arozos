@@ -54,8 +54,52 @@
         "zh-hk": {
             
         },
-        "zh-cn": {
+        "ru-RU": {
+            "name": "Russian（RU）",
+"fontFamily": "\"Microsoft JhengHei\",\"SimHei\", \"Apple LiGothic Medium\", \"STHeiti\"",
+"strings": {
+    "header/title/systemUpdate": "Обновление системы",
+    "header/title/subHeader": "Обновить локальную версию ArozOS до последней",
+    "warning/title": "Внимание!",
+    "warning/desc": "Перед обновлением создайте резервные копии всех важных файлов",
+    "checking/title": "Подключение к серверу загрузки",
+    "checking/desc": "Система загружает ресурсы обновления",
+    "confirm/title": "Подтвердить обновление до последней версии?",
+    "confirm/update/willUse": "Это обновление будет использовать ",
+    "confirm/update/ofSpace": " места в хранилище",
+    "confirm/update/confirm": "Подтвердить обновление",
+    "confirm/update/cancel": "Отменить обновление",
+    "confirm/update/reminder": "Пожалуйста, убедитесь, что вы создали резервные копии всех важных файлов и настроек перед началом",
+    "download/title": "Подготовка обновления",
+    "download/wsFallback": "Не удалось установить соединение WebSocket с сервером. Используется режим загрузки через AJAX (отсутствие индикатора прогресса — нормальное состояние) <br>Пожалуйста, дождитесь завершения загрузки и не закрывайте это окно.</br>",
+    "succ/update": "Загрузка обновления завершена",
+    "succ/restartDesc": "Перезапустите через запускатель ArozOS или вручную переместите загруженный файл обновления, чтобы завершить процесс обновления.",
+    "pending/title": "Обновление готово",
+    "pending/desc": "Перезапустите через запускатель ArozOS или вручную переместите загруженный файл обновления, чтобы завершить процесс обновления.",
+    "failed/title": "Не удалось загрузить обновление",
+    "failed/error": "Произошла неизвестная ошибка",
+    "launcher/detected/title": "Обнаружен запускатель:",
+    "launcher/desc": "Вам потребуется вручную перезапустить ArozOS, чтобы завершить обновление",
+    "launcher/warning": "Внимание! Так как в случае сбоя обновления потребуется ручной перезапуск хоста, убедитесь, что у вас есть способ удаленного или физического перезапуска сервера.",
+    "launcher/restartnow": "Перезапустить сейчас",
+    "launcher/restartlater": "Перезапустить позже",
+    "update/vendor/from": "Обновить с ",
+    "update/vendor/recommend": "Рекомендуется",
+    "update/vendor/desc": " и использовать встроенные настройки обновления по умолчанию",
+    "update/useVendorUpdate": "Обновить",
+    "update/download/title": "HTTP загрузка обновления",
+    "update/download/binary": "Ссылка для загрузки исполняемого файла arozos",
+    "update/download/binaryInstr": "Имя файла обычно имеет формат: arozos_{платформа ОС}_{архитектура CPU}",
+    "update/download/webpack": "Ссылка для загрузки архива webpack",
+    "update/download/webpackInst": "Имя файла обычно webpack.tar.gz",
+    "update/download/execu": "Выполнить пользовательское обновление"
+},
+"titles": {},
+"placeholder": {
+    "Binary Download URL": "Ссылка для загрузки исполняемого файла",
+    "Webpack Download URL": "Ссылка для загрузки webpack"
+}
             
-        }
+        },
     }
 }
