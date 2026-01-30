@@ -40,6 +40,19 @@
             "placeholder":{
 
             }
-        }
+        },
+        "ru-ru": {
+            "name": "Русский（РУ）",
+            "fwtitle" : "",
+            "strings":{
+                
+            },
+            "titles":{
+
+            },
+            "placeholder":{
+
+            }
+        },
     }
 }
