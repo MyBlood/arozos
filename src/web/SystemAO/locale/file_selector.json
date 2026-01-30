@@ -217,7 +217,43 @@
                 "New Filename": "새 파일",
                 "New Folder": "새 폴더"
             }
-        }
+        },
+        "ru-ru": {
+    "fwtitle": "Выберите файлы",
+    "fontFamily": "",
+    "strings": {
+        "title": "Выберите файлы",
+        "roots/user": "Пользователь",
+        "roots/storage": "Хранилище",
+        "message/loading": "Загрузка...",
+        "message/waitingResp": "Проверка выбора...",
+        "message/nofile": "Нет файлов",
+
+        "sidebar/vroot/desktop": "Рабочий стол",
+        "sidebar/vroot/document": "Документы",
+        "sidebar/vroot/music": "Музыка",
+        "sidebar/vroot/photo": "Фото",
+        "sidebar/vroot/video": "Видео",
+        "sidebar/vroot/trash": "Корзина",
+        "sidebar/vroot/download": "Загрузки",
+        "sidebar/vroot/web": "Веб",
+        "sidebar/vroot/model": "Модели",
+        "sidebar/vroot/appdata": "Данные приложений",
+
+        "": ""
+    },
+    "titles": {
+        "Back": "Назад",
+        "Parent": "Родительский каталог",
+        "Refresh": "Обновить",
+        "Create Folder": "Создать папку",
+        "New Folder": "Новая папка"
+    },
+    "placeholder": {
+        "New Filename": "Новый файл",
+        "New Folder": "Новая папка"
+    }
+},
         
     }
 }
