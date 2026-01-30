@@ -58,6 +58,21 @@
             },
             "titles": {},
             "placeholder": {}
-        }
+        },
+        "ru-RU": {
+    "name": "Russian (RU)",
+    "fontFamily": "Arial, Helvetica, sans-serif",
+    "fwtitle": "",
+    "strings": {
+        "displaytest/display-test-title": "ArozOS Тест дисплея",
+        "displaytest/display-testing-title": "Тест дисплея",
+        "displaytest/display-testing-subheader": "Простые инструменты тестирования дисплея",
+        "displaytest/dead-pixel-test-title": "Тест мёртвых пикселей",
+        "displaytest/dead-pixel-test-description": "Этот тест откроет новое окно с полноэкранным режимом. <br>Чтобы выйти из теста, нажмите клавишу ESC на клавиатуре или проведите пальцем вниз и нажмите кнопку «закрыть» на сенсорных устройствах.",
+        "displaytest/start-test-button": "Начать тест"
+    },
+    "titles": {},
+    "placeholder": {}
+}
     }
 }
