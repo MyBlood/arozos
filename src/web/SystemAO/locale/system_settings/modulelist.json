@@ -59,6 +59,24 @@
             },
             "titles": {},
             "placeholder": {}
-        }
-    }
-}
+        },
+        "ru-RU": {
+    "name": "Russian (RU)",
+    "fontFamily": "Arial, Helvetica, sans-serif",
+    "strings": {
+        "title/title": "Список модулей",
+        "table/module": "Модуль",
+        "table/group": "Группа",
+        "table/ext": "Поддерживаемые расширения",
+        "table/modes": "Поддерживаемый режим",
+        "table/modes/default": "По умолчанию",
+        "table/modes/floatwindow": "FloatWindow",
+        "table/modes/embedded": "Embedded",
+        "desc/reload": "Если вы установили WebApps вручную, вы можете нажать кнопку «Reload WebApps», чтобы загрузить их без перезапуска ArozOS.",
+        "button/reload": "Перезагрузить WebApps",
+        "item/version": "Версия: "
+    },
+    "titles": {},
+    "placeholder": {}
+},
+
