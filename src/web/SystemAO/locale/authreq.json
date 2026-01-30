@@ -79,7 +79,19 @@
                 "Username": "사용자 이름",
                 "Password": "비밀번호"
             }
-        }
+        },
+        "ru-ru": {
+    "fontFamily": "",
+    "strings": {
+        "page/title": "Аутентификация администратора",
+        "button/confirm": "Подтвердить",
+        "button/cancel": "Отменить"
+    },
+    "placeholder": {
+        "Username": "Имя пользователя",
+        "Password": "Пароль"
+    }
+},
         
     }
 }
