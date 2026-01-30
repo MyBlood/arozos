@@ -179,7 +179,28 @@
             "placeholder": {
         
             }
-        }
+        },
+        "ru-ru": {
+    "fwtitle": "Обзор диска",
+    "strings": {
+        "title/title": "Обзор диска",
+        "title/desc": "Точка монтирования жесткого диска, соответствующего этому виртуальному устройству хранения",
+        "diskinfo/physical": "Физический жесткий диск",
+        "diskinfo/hierarchy": "Структура устройства хранения (Формат)",
+        "hierarchy/User": "Иерархия хранилища",
+        "hierarchy/Public": "Общий диск",
+        "hierarchy/Backup": "Диск резервного копирования",
+        "spaceinfo/totalUsed": "Использованное дисковое пространство",
+        "spaceinfo/userUsed": "Пользовательское дисковое пространство",
+        "spaceinfo/Usable": "Доступное дисковое пространство",
+        "spaceinfo/Capacity": "Объем диска",
+        "unit/bytes": " Байт",
+        "error/na": "[Недоступно]",
+        "button/close": "Подтвердить"
+    },
+    "titles": {},
+    "placeholder": {}
+},
         
         
     }
