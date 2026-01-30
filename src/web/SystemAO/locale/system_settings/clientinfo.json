@@ -80,7 +80,27 @@
                 "clientinfo/user-agent": "User Agent"
             },
             "titles": {},
-            "placeholder": {}
-        }
+            "placeholder": {
+                
+            }
+        },
+        "ru-RU": {
+    "name": "Russian (RU)",
+    "fontFamily": "Arial, Helvetica, sans-serif",
+    "fwtitle": "",
+    "strings": {
+        "clientinfo/client-information-title": "Информация об устройстве клиента",
+        "clientinfo/client-device-information": "Информация об устройстве клиента",
+        "clientinfo/client-device-information-subheader": "Это информация, которую ваш браузер передает ArozOS.",
+        "clientinfo/browser-information": "Информация о браузере",
+        "clientinfo/cookie-enabled": "Cookie включены",
+        "clientinfo/operation-system": "Операционная система",
+        "clientinfo/application-name": "Название приложения",
+        "clientinfo/browser-engine": "Движок браузера",
+        "clientinfo/user-agent": "User Agent"
+    },
+    "titles": {},
+    "placeholder": {}
+}
     }
 }
