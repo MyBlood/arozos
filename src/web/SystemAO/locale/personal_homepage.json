@@ -129,7 +129,7 @@
         },
         "ru-ru": {
     "name": "Russian",
-    "fontFamily": "\"Microsoft YaHei\",\"SimHei\", \"STHeiti\"",
+    "fontFamily": "Calibri Regular, Calibri Bold",
     "strings": {
         "header/title": "Персональная веб-страница",
         "header/subtitle": "Создайте свою собственную веб-страницу на ArozOS",
