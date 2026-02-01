@@ -56,7 +56,7 @@
         },
         "ru-RU": {
             "name": "Russian（RU）",
-"fontFamily": "\"Microsoft JhengHei\",\"SimHei\", \"Apple LiGothic Medium\", \"STHeiti\"",
+"fontFamily": "Calibri Regular, Calibri Bold",
 "strings": {
     "header/title/systemUpdate": "Обновление системы",
     "header/title/subHeader": "Обновить локальную версию ArozOS до последней",
