@@ -20,7 +20,7 @@
 
             },
             "placeholder":{
-
+                
             }
         },
         "zh-hk": {
@@ -88,7 +88,7 @@
         },
         "ru-RU": {
     "name": "Russian (RU)",
-    "fontFamily": "Arial, Helvetica, sans-serif",
+    "fontFamily": "Calibri Regular, Calibri Bold",
     "strings": {
         "arozaudio/arozaudio-title": "ArozOS Тест звука",
         "arozaudio/system-audio": "Системный звук",
