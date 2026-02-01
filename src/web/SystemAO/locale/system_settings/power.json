@@ -58,7 +58,7 @@
         },
         "ru-RU": {
     "name": "Russian（RU）",
-    "fontFamily": "\"Microsoft JhengHei\",\"SimHei\", \"Apple LiGothic Medium\", \"STHeiti\"",
+    "fontFamily": "\"Calibri Regular\",\"Calibri Bold\"",
     "strings": {
         "hostPower/host_power": "Питание хоста",
         "hostPower/host_power_title": "Питание хоста",
