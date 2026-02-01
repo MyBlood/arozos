@@ -84,11 +84,11 @@
                 
             }
         },
-        "ru-RU": {
-    "name": "Russian (RU)",
-    "fontFamily": "Arial, Helvetica, sans-serif",
-    "fwtitle": "",
-    "strings": {
+       "ru-RU": {
+       "name": "Russian (RU)",
+       "fontFamily": "Calibri Regular, Calibri Bold",
+       "fwtitle": "",
+       "strings": {
         "clientinfo/client-information-title": "Информация об устройстве клиента",
         "clientinfo/client-device-information": "Информация об устройстве клиента",
         "clientinfo/client-device-information-subheader": "Это информация, которую ваш браузер передает ArozOS.",
