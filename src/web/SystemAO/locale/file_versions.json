@@ -115,7 +115,7 @@
         },
         "ru-ru": {
     "fwtitle": "Управление версиями файлов",
-    "fontFamily": "\"Microsoft JhengHei\",\"SimHei\", \"Apple LiGothic Medium\", \"STHeiti\"",
+    "fontFamily": "Calibri Regular, Calibri Bold",
     "strings": {
         "title/title": "Управление версиями файлов",
         "title/desc": "Старые версии этого файла будут автоматически удалены через 30 дней. Вы также можете вручную удалить резервные копии версий из списка ниже.",
